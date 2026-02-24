@@ -1,0 +1,25 @@
+{
+  "name": "ticoautos-frontend",
+  "version": "1.0.0",
+  "description": "Plataforma web para la publicación y consulta de automóviles en venta.\r Este repositorio contiene la aplicación cliente, desarrollada con React, que consume una Web API REST construida en Node.js, utilizando MongoDB como base de datos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaPaz0617/ticoautos-frontend.git"
+  },
+  "author": "Maria Paz Ugalde Araya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaPaz0617/ticoautos-frontend/issues"
+  },
+  "homepage": "https://github.com/MariaPaz0617/ticoautos-frontend#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.2",
+    "nodemon": "^3.1.14"
+  }
+}
