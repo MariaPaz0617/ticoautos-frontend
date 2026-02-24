@@ -9,14 +9,22 @@ Este repositorio contiene la aplicación cliente, desarrollada con React, que co
 4-Implementar autenticación.
 
 # Clonar el repositorio
+```bash
 git clone https://github.com/tu-usuario/ticoautos-frontend.git
+```
 
 # Instalacion de Dependencias
 Este comando te solicitará varios datos, como el nombre del proyecto, el autor, el repositorio, etc. Luego, generará un archivo package.json en esa carpeta.
+```bash
 npm install
+```
 
 # Instalamos express, mongoose, nodemon y dotenv.
+```bash
 npm i express mongoose nodemon dotenv
+```
 
 # Ejecutar el proyecto
+```bash
 npm run dev
+```
